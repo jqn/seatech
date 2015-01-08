@@ -1,0 +1,51 @@
+ul {
+  list-style: none
+}
+
+#faqs-btn {
+  font-size: 24px;
+}
+
+navbar-nav {
+  width: 100%;
+  text-align: center;
+}
+
+navbar-nav li {
+  float: none;
+  display: inline-block;
+}
+
+/* Referrals*/
+.referral {
+  background-color: #334452;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+.referral h2{
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.referral p{
+  color: #ffffff;
+  font-size: 1em;
+}
+
+.referral-section {
+  padding: 100px 0;
+}
+
+.referral-section h2 {
+  color: #000;
+}
+
+.referral-section p {
+  color: #000;
+}
+
+#success {
+  color: blue;
+  background-color: red;
+}
